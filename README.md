@@ -1,5 +1,6 @@
-### Olá! Eu sou Eduardo Lima 🤙 
-<div style="display: inline_block"><br> 
+<div align="center" style="display: inline_block"><br> 
+  <h1>Olá! Eu sou Eduardo Lima 🤙 </h1>
+<p>eduldjf@gmail.com</p>
 <a href = "mailto:eduldjf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
@@ -8,9 +9,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudu-git&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudu-git&layout=compact&langs_count=7&theme=dracula"/>-->
 </div>
-
-## Tecnologias
-<div style="display: inline_block"><br>
+  
+<div align="center" style="display: inline_block"><br>
+  <h1>Tecnologias </h1>
    <img align="Center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
    <img align="Center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
    <img align="Center" alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
