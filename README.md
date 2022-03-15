@@ -1,8 +1,13 @@
-### Olá! Eu sou Eduardo Lima 🤙
+### Olá! Eu sou Eduardo Lima 🤙 
+<div style="display: inline_block"><br> 
+<a href = "mailto:eduldjf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eduldjf@gmail.com)
-
-![Dudu GitHub stats](https://github-readme-stats.vercel.app/api?username=dudu-git&show_icons=true&theme=dracula)
+<div align="center">
+  <a href="https://github.com/dudu-git">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudu-git&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudu-git&layout=compact&langs_count=7&theme=dracula"/>-->
+</div>
 
 ## Tecnologias
 <div style="display: inline_block"><br>
@@ -13,4 +18,6 @@
    <img align="Center" alt="Svelt" src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00">
    <img align="Center" alt="SQL" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 </div>
+     
+  
 
